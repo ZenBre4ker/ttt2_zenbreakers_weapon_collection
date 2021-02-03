@@ -3,7 +3,7 @@ if SERVER then
 end
 
 SWEP.Base				= "weapon_zen_shotgunbase"
-SWEP.SubClass			= "None" -- At the moment there are no further subclasses
+SWEP.SubClass			= "pump" -- pump or auto or double
 
 -- These can be copied to every weapon, as they are weapon specific
 if CLIENT then
