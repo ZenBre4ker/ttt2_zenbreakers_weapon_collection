@@ -20,8 +20,8 @@ SWEP.Primary.Sound 		= Sound("weapons/det_revolver/revolver-fire.wav") -- Has no
 SWEP.ViewModel			= Model("models/weapons/c_357.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_357.mdl")
 
-SWEP.IronSightsPos		= Vector(-4.64, -3.96, 0.68)
-SWEP.IronSightsAng		= Vector(0.214, -0.1767, 0)
+SWEP.IronSightsPos		= Vector(-4.7, -3.96, 0.6)
+SWEP.IronSightsAng		= Vector(0, -0.2, 0.8)
 
 SWEP.AutoSpawnable		= true
 SWEP.Spawnable			= true

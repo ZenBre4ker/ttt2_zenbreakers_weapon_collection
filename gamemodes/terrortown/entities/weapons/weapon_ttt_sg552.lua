@@ -20,7 +20,7 @@ SWEP.Primary.Sound		= Sound("Weapon_SG552.Single")
 SWEP.ViewModel			= Model("models/weapons/cstrike/c_rif_sg552.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_rif_sg552.mdl")
 
-SWEP.IronSightsPos			= Vector(-5.58, -9.2, 0.55)
+SWEP.IronSightsPos			= Vector(-2.58, -9.2, -3.55)
 SWEP.IronSightsAng			= Vector(2.599, -1.3, -3.6)
 SWEP.ZoomFOV				= 50	-- Allow this assault Rifle to scope
 SWEP.DrawIronSightsScope	= true
