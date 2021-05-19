@@ -20,8 +20,8 @@ SWEP.Primary.Sound		= Sound("Weapon_Galil.Single")
 SWEP.ViewModel			= Model("models/weapons/cstrike/c_rif_galil.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_rif_galil.mdl")
 
-SWEP.IronSightsPos 		= Vector(-2, -5, 2)
-SWEP.IronSightsAng 		= Vector(2.6, 1.37, 3.5)
+SWEP.IronSightsPos		= Vector(-6.361, -11.103, 2.519)
+SWEP.IronSightsAng		= Vector(0, 0, 0)
 
 SWEP.AutoSpawnable		= true
 SWEP.Spawnable			= true

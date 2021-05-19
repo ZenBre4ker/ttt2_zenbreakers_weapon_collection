@@ -20,7 +20,7 @@ SWEP.Primary.Sound		= Sound("Weapon_SMG1.Single")
 SWEP.ViewModel			= Model("models/weapons/c_smg1.mdl")
 SWEP.WorldModel			= Model("models/weapons/w_smg1.mdl")
 
-SWEP.IronSightsPos 		= Vector(-2, -5, 2)
+SWEP.IronSightsPos 		= Vector(-2, -5, 1)
 SWEP.IronSightsAng 		= Vector(2.6, 1.37, 3.5)
 
 SWEP.AutoSpawnable		= true
